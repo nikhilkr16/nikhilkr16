@@ -28,5 +28,5 @@
 
 
 #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16&left_color=green&right_color=red)
 
