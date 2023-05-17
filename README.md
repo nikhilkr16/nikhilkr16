@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### <h1>Hi there 👋 </h1>
+<hr>
 
 -👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
 -👀 I’m interested in Coding and related things <br>
