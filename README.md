@@ -32,5 +32,4 @@
 
 
 #### Github Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16&show_icons=true&theme=radical)
-
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats)
