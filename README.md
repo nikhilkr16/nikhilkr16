@@ -24,7 +24,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) 
 [![PHP Badge](https://img.shields.io/badge/-PHP-e535ab?style=for-the-badge&labelColor=black&logo=php&logoColor=e535ab)](#)
-[![Python Badge](https://img.shields.io/badge/-python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
+[![Python Badge](https://img.shields.io/badge/-python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=7734eb)](#)
 
 
 
