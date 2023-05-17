@@ -39,7 +39,7 @@
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/nikhilkr16/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/nikhilkr16/NIKHIL.pdf)
 - :email: nikhil.kr16082002@gmail.com
 
 
