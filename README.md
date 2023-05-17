@@ -9,18 +9,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumar16) [![Mail Badge](https://img.shields.io/badge/-@nikhil_kr16-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_nikhil_kr16/) 
 [![Mail Badge](https://img.shields.io/badge/-nikhilkr16-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nikhil.kr16082002@gmail.com)
 
--👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
--👀 I’m interested in Coding and related things <br>
--🌱 I’m currently a 1st year fresher at BIT MESRA ( Biotech dept. )<br>
--💞️ Anyone who wants to explore and create a joyful coding community should get in touch with me.<br>
--📫 How can I be reached? ...My LinkedIn profile is available at this link:-> https://www.linkedin.com/in/nikhilkumar16
+- 👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
+- 👀 I’m interested in Coding and related things <br>
+- 🌱 I’m currently a 1st year fresher at BIT MESRA ( Biotech dept. )<br>
+- 💞️ Anyone who wants to explore and create a joyful coding community should get in touch with me.<br>
+- 📫 How can I be reached? ...My LinkedIn profile is available at this link:-> https://www.linkedin.com/in/nikhilkumar16
 
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Html Badge](https://img.shields.io/badge/-Html-61DBFB?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#)
+[![Html Badge](https://img.shields.io/badge/-Html-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
