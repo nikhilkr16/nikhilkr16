@@ -34,7 +34,7 @@
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16&left_color=green&right_color=red)
-
+![Profile views](https://gpvc.arturio.dev/[nikhilkr16])
 
 <details>
 <summary>
