@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@nikhilkr16-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nik_kr369)](https://twitter.com/Nik_kr369)
 [![Mail Badge](https://img.shields.io/badge/-Nikhil-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@NIKHILKUMAR-ui9lg)
-[![Linkedin Badge](https://img.shields.io/badge/-Nikhil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumar16) [![Mail Badge](https://img.shields.io/badge/-@_nikhil_kr16-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_nikhil_kr16/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nikhil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumar16) [![Mail Badge](https://img.shields.io/badge/-@nikhil_kr16-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_nikhil_kr16/) 
 [![Mail Badge](https://img.shields.io/badge/-nikhilkr16-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nikhil.kr16082002@gmail.com)
 
 -👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
