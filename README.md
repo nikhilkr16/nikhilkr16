@@ -33,5 +33,5 @@
 
 #### Github Stats
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16 )](https://github.com/nikhilkr16/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
