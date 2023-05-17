@@ -32,4 +32,4 @@
 
 #### Github Stats
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats&theme=tokyonight)
