@@ -26,8 +26,6 @@
 [![PHP Badge](https://img.shields.io/badge/-PHP-e535ab?style=for-the-badge&labelColor=black&logo=php&logoColor=e535ab)](#)
 [![Python Badge](https://img.shields.io/badge/-python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
 
-[![Html Badge](<i class="lni lni-html5"></i>
-)](#)
 
 
 
