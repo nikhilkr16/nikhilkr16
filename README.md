@@ -42,6 +42,7 @@
 - :paperclip: [My Resume/CV](https://github.com/nikhilkr16/nikhilkr16/blob/main/NIKHIL.pdf)
 - :email: nikhil.kr16082002@gmail.com
 
+ [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/nikhilkr16/readme-components)
 
 
 #### Github Stats
