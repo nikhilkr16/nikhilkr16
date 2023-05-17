@@ -20,7 +20,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Html Badge](https://img.shields.io/badge/-Html-61DBFB?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#)
+[![Html Badge](https://img.shields.io/badge/-Html-61DBFB?style=for-the-badge&labelColor=black&logo=html5&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) 
 [![PHP Badge](https://img.shields.io/badge/-PHP-e535ab?style=for-the-badge&labelColor=black&logo=php&logoColor=e535ab)](#)
