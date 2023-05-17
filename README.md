@@ -29,7 +29,10 @@
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16&left_color=green&right_color=red)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+
+
 
 #### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats&theme=tokyonight)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16)](https://github.com/nikhilkr16/github-readme-stats&theme=tokyonight)
