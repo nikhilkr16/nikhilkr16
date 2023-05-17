@@ -30,6 +30,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16&left_color=green&right_color=red)
 
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/nikhilkr16/blob/master/resumes/resume%20v1.0.pdf)
@@ -40,3 +47,6 @@
 #### Github Stats
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+  
+  </details>
