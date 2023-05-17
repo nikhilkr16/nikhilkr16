@@ -24,7 +24,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![PHP Badge](https://img.shields.io/badge/-PHP-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-[![CSS logo](https://readme-components.vercel.app/api?component=logo&logo=css)](https://github.com/nikhilkr16/readme-components)
+[![CSS logo](https://readme-components.vercel.app/api?component=logo&logo=css)](https://github.com/nikhilkr16)
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilkr16.nikhilkr16&left_color=green&right_color=red)
