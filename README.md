@@ -44,14 +44,14 @@
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/nikhilkr16/nikhilkr16/blob/main/NIKHIL%20RESUME.pdf)
+- :paperclip: [My Resume/CV](https://github.com/nikhilkr16/RESUME/blob/main/NikhilKumarResume.pdf)
 - :email: nikhil.kr16082002@gmail.com
 
 
 
 #### Github Stats
 
-![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilkr16&count_private=true&theme=tokyonight&hide=contribs,pr)
 
   
   </details>
