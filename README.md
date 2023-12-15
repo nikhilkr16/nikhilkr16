@@ -62,6 +62,6 @@
   
   </details>
 
-<p><img align="center" alt="Coding" src="https://github-readme-streak-stats.herokuapp.com/?user=switchbladeak&" /></p>
+<p><img align="center" alt="Coding" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkr16&" /></p>
 
 <img align="center" width="100%"  alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
