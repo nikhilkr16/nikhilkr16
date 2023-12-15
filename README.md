@@ -39,7 +39,7 @@
 
 
 #### Profile Visits 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=switchbladeak&label=Profile%20views&color=0e75b6&style=flat" alt="switchbladeak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkr16&label=Profile%20views&color=blueviolet&style=flat" alt="switchbladeak" /> </p>
 
 <details>
 <summary>
