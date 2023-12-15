@@ -51,7 +51,7 @@
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/nikhilkr16/RESUME/blob/main/NikhilKumarResume.pdf)
-- :email:[](https://mail.google.com/mail/u/0/?fs=1&to=nikhilkr3000@gmail.com&su=SUBJECT:-&body=Message:-&tf=cm)
+- :email:[Contact Me !!](https://mail.google.com/mail/u/0/?fs=1&to=nikhilkr3000@gmail.com&su=SUBJECT:-&body=Message:-&tf=cm)
 
 
 
