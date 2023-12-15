@@ -1,7 +1,7 @@
 <img align="center" width="100%"  alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-### <h1> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Nikhil 
-</h1> 
+### <center><h1> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Nikhil 
+</h1></center>
   <hr>
   <h3 align="center">  HTML5-CSS3-JavaScript|| Python </h3>
 
@@ -39,7 +39,7 @@
 
 
 #### Profile Visits 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkr16&label=Profile%20views&color=blueviolet&style=flat" alt="switchbladeak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[nikhilkr16](https://github.com/nikhilkr16)&label=Profile%20views&color=blueviolet&style=flat" alt="switchbladeak" /> </p>
 
 <details>
 <summary>
