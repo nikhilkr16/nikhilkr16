@@ -70,4 +70,11 @@
 
 <p><img align="center" alt="Coding" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkr16&" /></p>
 
-<img align="center" width="100%"  alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+## 🔍 Seeking Opportunities
+
+I am actively seeking full-time opportunities in Software Development, Software Engineering, Data Science, Data Analysis, and Data Engineering roles. With a strong academic background and hands-on experience, I am eager to contribute to innovative projects and bring a data-driven approach to problem-solving.
+
+Feel free to explore my GitHub repositories, and if you have any exciting opportunities or collaboration ideas, I would love to hear from you!
+
+
+![Profile Visits](https://komarev.com/ghpvc/?username=nikhilkr16&color=brightgreen)
