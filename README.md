@@ -77,4 +77,3 @@ I am actively seeking full-time opportunities in Software Development, Software 
 Feel free to explore my GitHub repositories, and if you have any exciting opportunities or collaboration ideas, I would love to hear from you!
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=nikhilkr16&color=brightgreen)
