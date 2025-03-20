@@ -33,8 +33,8 @@
 [![Python Badge](https://img.shields.io/badge/-python-7734eb?style=for-the-badge&labelColor=black&logo=python&logoColor=7734eb)](#)
 [![C Badge](https://img.shields.io/badge/-c-0d3b9e?style=for-the-badge&labelColor=black&logo=c&logoColor=0d3b9e)](#)
 [![MySQl Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758f)](#)
-[![React Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=react&logoColor=00758f)](#)
-[![AI Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=ai&logoColor=00758f)](#)
+![React Badge](https://img.shields.io/badge/-React-0078D6?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Data Science Badge](https://img.shields.io/badge/-Data%20Science-FF6F00?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 
 
 
