@@ -17,7 +17,7 @@
 
 - 👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
 - 👀 I’m interested in Coding and related things <br>
-- 🌱 I’m currently a 1st year fresher at BIT MESRA ( Biotech dept. )<br>
+- 🌱 I’m currently a Pre-Final Student at BIT MESRA ( Biotech dept. )<br>
 - 💞️ Anyone who wants to explore and create a joyful coding community should get in touch with me.<br>
 - 📫 How can I be reached? ...My LinkedIn profile is available at this link:-> https://www.linkedin.com/in/nikhilkumar16
 
@@ -33,6 +33,8 @@
 [![Python Badge](https://img.shields.io/badge/-python-7734eb?style=for-the-badge&labelColor=black&logo=python&logoColor=7734eb)](#)
 [![C Badge](https://img.shields.io/badge/-c-0d3b9e?style=for-the-badge&labelColor=black&logo=c&logoColor=0d3b9e)](#)
 [![MySQl Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758f)](#)
+[![React Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=react&logoColor=00758f)](#)
+[![AI Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=ai&logoColor=00758f)](#)
 
 
 
