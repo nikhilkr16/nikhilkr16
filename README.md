@@ -19,7 +19,7 @@
 - 👀 I’m interested in Coding and related things <br>
 - 🌱 I’m currently a Pre-Final Student at BIT MESRA ( Biotech dept. )<br>
 - 💞️ Anyone who wants to explore and create a joyful coding community should get in touch with me.<br>
-- 📫 How can I be reached? =>> My LinkedIn profile is available at: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nikhilkumar16)
+- 📫 How can I be reached? =>> My LinkedIn profile is available at:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumar16)
 
 
 
