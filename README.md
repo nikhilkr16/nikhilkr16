@@ -17,8 +17,9 @@
 [![Mail Badge](https://img.shields.io/badge/-nikhilkr16-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nikhil.kr16082002@gmail.com)
 
 - 👋 Hi, I’m @nikhilkr16 aka NIKHIL KUMAR <br>
-- 👀 I’m interested in Coding and related things <br>
-- 🌱 I’m currently a Pre-Final Student at BIT MESRA ( Biotech dept. )<br>
+- 👨‍💻 Passionate Web Developer & Data Enthusiast <br>
+- 🎓 Pre-Final Year Student at BIT Mesra <br>
+- 🤝 Open to collaborations, freelance projects, and open-source contributions<br>
 - 💞️ Anyone who wants to explore and create a joyful coding community should get in touch with me.<br>
 - 📫 How can I be reached? =>> My LinkedIn profile is available at:[![Profile](https://img.shields.io/badge/View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkr16/)
 
@@ -55,7 +56,7 @@
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1H8BmDsM535PQBFDsC2LvdcigeL1kdv9w/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1J1eVW7JEjmQWTHyGUzJs0Nd_4bkU-Qfs/view?usp=sharing)
 - :email:     [Contact Me !!](https://mail.google.com/mail/u/0/?fs=1&to=nikhilkr3000@gmail.com&su=SUBJECT:-&body=Message:-&tf=cm)
 
 
