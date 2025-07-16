@@ -102,7 +102,7 @@
   <img src="https://github.com/user-attachments/assets/9f9ea774-8cf7-4bbf-b8c1-b64514c72cdd" width="40" alt="Excel" title="Excel"/>
   <!-- Tableau (official logo from SimpleIcons) -->
 <!--   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
-  <!-- ChatGPT (OpenAI) --> -->
+  <!-- ChatGPT (OpenAI) -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
   <!-- DeepSeek (SVG injected directly) -->
 
