@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/-AI%2FML-00C2CB?style=for-the-badge&logo=google&logoColor=white"/>
 </p> -->
 
+
+
 <p align="center">
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
@@ -77,13 +79,13 @@
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
   <!-- TailwindCSS (SVG injected directly) -->
-  <img src="tailwindcss.svg" width="40" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="https://github.com/user-attachments/assets/6783a9f2-a1a4-4383-bc95-215f0c699537" width="40" alt="TailwindCSS" title="TailwindCSS"/>
   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" title="Jupyter"/>
   <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" title="VSCode"/>
   <!-- Cursor IDE (SVG injected directly) -->
-  <img src="Cursor AI.svg" width="40" alt="Cursor IDE" title="Cursor IDE"/>
+  <img src="https://github.com/user-attachments/assets/e730f852-c30a-488a-8a26-0ec92a5d4342" width="40" alt="Cursor IDE" title="Cursor IDE"/>
   <!-- Notion -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion" title="Notion"/>
   <!-- Git -->
@@ -97,15 +99,14 @@
   <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" title="Matplotlib"/>
   <!-- Excel (SVG injected directly) -->
-  <img src="icons8-excel.svg" width="40" alt="Excel" title="Excel"/>
+  <img src="https://github.com/user-attachments/assets/9f9ea774-8cf7-4bbf-b8c1-b64514c72cdd" width="40" alt="Excel" title="Excel"/>
   <!-- Tableau (official logo from SimpleIcons) -->
 <!--   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
   <!-- ChatGPT (OpenAI) --> -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
   <!-- DeepSeek (SVG injected directly) -->
-<!--   ![deepseek-logo-png-transparent-background--3fd0d86bd1](https://github.com/user-attachments/assets/70b6b658-2cde-4e4b-a78a-62a59c4e3e23)
- -->
-  <img src="https://github.com/user-attachments/assets/70b6b658-2cde-4e4b-a78a-62a59c4e3e23" width="40" alt="GitHub" title="GitHub"/>
+
+  <img src="https://github.com/user-attachments/assets/aeecfff5-ead1-4cd6-a14f-7f6ba7177077" width="40" alt="GitHub" title="GitHub"/>
 
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
