@@ -99,11 +99,12 @@
   <!-- Excel (SVG injected directly) -->
   <img src="icons8-excel.svg" width="40" alt="Excel" title="Excel"/>
   <!-- Tableau (official logo from SimpleIcons) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
-  <!-- ChatGPT (OpenAI) -->
+<!--   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
+  <!-- ChatGPT (OpenAI) --> -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
   <!-- DeepSeek (SVG injected directly) -->
-  <img src="deepseek-logo_svgstack_com_37061752705968.svg" width="40" alt="DeepSeek" title="DeepSeek"/>
+  ![deepseek-logo-png-transparent-background--3fd0d86bd1](https://github.com/user-attachments/assets/70b6b658-2cde-4e4b-a78a-62a59c4e3e23)
+
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
   <!-- Netlify -->
