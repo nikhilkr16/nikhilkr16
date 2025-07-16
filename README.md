@@ -58,8 +58,8 @@
 <p>
   <a href="https://twitter.com/Nik_kr369"><img src="https://img.shields.io/badge/-@nikhilkr16-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.youtube.com/@NIKHILKUMAR-ui9lg"><img src="https://img.shields.io/badge/-Nikhil-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.linkedin.com/in/nikhilkumar16"><img src="https://img.shields.io/badge/-Nikhil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://www.instagram.com/_nikhil_kr16/](https://www.instagram.com/nikhil_kr16/)"><img src="https://img.shields.io/badge/-@nikhil_kr16-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/nikhilkr16/"><img src="https://img.shields.io/badge/-Nikhil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/nikhil_kr16/"><img src="https://img.shields.io/badge/-@nikhil_kr16-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:nikhil.kr16082002@gmail.com"><img src="https://img.shields.io/badge/-nikhilkr16-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
