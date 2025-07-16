@@ -24,7 +24,7 @@
 
 - 👋 Hi, I’m **@nikhilkr16** (Nikhil Kumar)  
 - 🎓 Final Year Student at **BIT Mesra**  
-- 👨‍💻 Passionate Full Stack Web Developer & Data Science Enthusiast  
+- 👨‍💻 Passionate MERN Stack Developer & Data Science Enthusiast  
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Engineering  
 - 🤝 Open to collaborations, freelance projects, hackathons, and open-source contributions  
 - 💡 I love building impactful projects, sharing knowledge, and being part of a thriving coding community  
