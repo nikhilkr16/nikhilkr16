@@ -103,7 +103,9 @@
   <!-- ChatGPT (OpenAI) --> -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
   <!-- DeepSeek (SVG injected directly) -->
-  ![deepseek-logo-png-transparent-background--3fd0d86bd1](https://github.com/user-attachments/assets/70b6b658-2cde-4e4b-a78a-62a59c4e3e23)
+<!--   ![deepseek-logo-png-transparent-background--3fd0d86bd1](https://github.com/user-attachments/assets/70b6b658-2cde-4e4b-a78a-62a59c4e3e23)
+ -->
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66540592/467258477-70b6b658-2cde-4e4b-a78a-62a59c4e3e23.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250716T225437Z&X-Amz-Expires=300&X-Amz-Signature=5e628b4c2608728e9139e3d6593f57d6a957a466f4bdb42c8599389e60d6636d&X-Amz-SignedHeaders=host" width="40" alt="GitHub" title="GitHub"/>
 
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
