@@ -35,7 +35,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AI%2FML-00C2CB?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+</p> -->
 
 <p align="center">
   <!-- HTML5 -->
@@ -76,18 +76,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" title="C"/>
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
-  <!-- TailwindCSS (manually hosted logo since devicon CDN might not have it) -->
+  <!-- TailwindCSS (SVG injected directly) -->
+  <img src="tailwindcss.svg" width="40" alt="TailwindCSS" title="TailwindCSS"/>
   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" title="Jupyter"/>
   <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" title="VSCode"/>
-  <!-- Cursor IDE (using SVG from official repo) -->
+  <!-- Cursor IDE (SVG injected directly) -->
+  <img src="Cursor AI.svg" width="40" alt="Cursor IDE" title="Cursor IDE"/>
   <!-- Notion -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion" title="Notion"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
+  <!-- Numpy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy"/>
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"/>
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" title="Matplotlib"/>
+  <!-- Excel (SVG injected directly) -->
+  <img src="icons8-excel.svg" width="40" alt="Excel" title="Excel"/>
+  <!-- Tableau (official logo from SimpleIcons) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
+  <!-- ChatGPT (OpenAI) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
+  <!-- DeepSeek (SVG injected directly) -->
+  <img src="deepseek-logo_svgstack_com_37061752705968.svg" width="40" alt="DeepSeek" title="DeepSeek"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+  <!-- Netlify -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify" title="Netlify"/>
+  <!-- Vercel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel"/>
 </p>
 
 ---
