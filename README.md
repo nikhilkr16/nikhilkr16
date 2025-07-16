@@ -82,6 +82,8 @@
 
 - 🔗 [My Resume/CV](https://drive.google.com/file/d/1J1eVW7JEjmQWTHyGUzJs0Nd_4bkU-Qfs/view?usp=sharing)
 - 📧 [Contact Me](https://mail.google.com/mail/u/0/?fs=1&to=nikhilkr3000@gmail.com&su=SUBJECT:-&body=Message:-&tf=cm)
+- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr16&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
 
 
 </details>
