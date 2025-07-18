@@ -103,17 +103,21 @@
   <!-- Tableau (official logo from SimpleIcons) -->
 <!--   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" alt="Tableau" title="Tableau"/>
   <!-- ChatGPT (OpenAI) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" alt="ChatGPT" title="ChatGPT"/>
+  <img src="https://github.com/user-attachments/assets/28dd8c67-2116-4d1b-ab96-b05644e8e763" width="40" alt="ChatGPT" title="ChatGPT"/>
   <!-- DeepSeek (SVG injected directly) -->
 
-  <img src="https://github.com/user-attachments/assets/aeecfff5-ead1-4cd6-a14f-7f6ba7177077" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://github.com/user-attachments/assets/aeecfff5-ead1-4cd6-a14f-7f6ba7177077" width="40" alt="deepseek" title="deepseek"/>
 
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
   <!-- Netlify -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify" title="Netlify"/>
   <!-- Vercel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel"/>
+  <img src="https://github.com/user-attachments/assets/5097ba19-7192-49f0-8eec-2433622655e8" width="40" alt="Vercel" title="Vercel"/>
+  
+  <img src="https://github.com/user-attachments/assets/1005cfca-97a8-4817-be2d-cb1b6d0cb109" width="40" alt="Vercel" title="Vercel"/>
+  
+
 </p>
 
 ---
